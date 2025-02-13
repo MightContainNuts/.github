@@ -1,0 +1,4 @@
+contact_links:
+  - name: 📚 Documentation Request
+    url: https://github.com/MightContainNuts/.github/issues/new?template=documentation.md
+    about: Request updates or additions to the documentation.
